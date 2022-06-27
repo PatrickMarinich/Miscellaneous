@@ -6,3 +6,5 @@ This repo will showcase my learning process of testing new programming topics or
 **1.** Web-Scraping via Pandas
  * Python code using the pandas library which takes data from different websites to use pandas' read_html() function to read data from websites
  * Includes, Mario Kart World Records, Football Player Stats and Baseball Player Stats
+ **2.** PDF creation using HTML
+ * Just a small test to test how creating an html file works in google colab, and then a test to try to convert that html code to a pdf
